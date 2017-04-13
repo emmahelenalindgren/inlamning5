@@ -1,0 +1,67 @@
+body {
+	background-color: green;
+    font-family: 'Shadows Into Light', cursive;
+    background: url(https://www.123freevectors.com/wp-content/uploads/new/123fv-images/1175-green-chalkboard-background.jpg) center center fixed; 
+}
+
+* {
+    font-family: 'Shadows Into Light', cursive;
+    color: white;
+    text-align: center;
+    outline: none;
+}
+
+#div2 {
+    margin: 30px;
+}
+
+.textsize {
+    font-size: 20px;
+}
+
+input {
+    background-color: transparent;
+    border-bottom-style: dashed;
+    border-color: transparent;
+    display: inline;
+    height: 25px;
+    font-size: 20px;
+    max-width: 220px; 
+    border-bottom-color: white;
+    margin: 15px;
+}
+
+input: active {
+    border-color: transparent;
+    text-decoration: none;
+}
+.squares {
+    max-width: 50px;
+}
+
+.math {
+    font-size:20px;
+    
+}
+
+#summa {
+    font-size: 25px;
+}
+
+p {
+    font-size: 25px;
+}
+
+button {
+    background-color: black;
+    padding: 10px 15px 10px 15px;
+    border-radius: 3px;
+    border-style: dashed;
+    margin: 10px;
+}
+
+button:focus {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
